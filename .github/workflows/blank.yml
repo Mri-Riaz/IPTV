@@ -21,9 +21,6 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Grant permission
-        run: chmod +x ./gradlew
-
       - name: Build Debug APK
         run: ./gradlew assembleDebug
 
