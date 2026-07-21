@@ -1,0 +1,13 @@
+# Ensure line endings are consistent
+* text=auto eol=lf
+
+# Force binary files to always be treated as binary and never normalized
+*.jar binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.keystore binary
+*.db binary
