@@ -1,0 +1,6 @@
+{
+  "name": "NovaStream",
+  "description": "A premium, feature-rich native Android IPTV Player supporting M3U, M3U8, Xtream Codes, and XMLTV EPG with smart search, categories, recently watched, Parental PIN lock, and smooth ExoPlayer buffering controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- TV Antennas -->
+    <path
+        android:fillColor="#4DA3FF"
+        android:pathData="M38,32 L49,43 L47,45 L36,34 Z" />
+    <path
+        android:fillColor="#4DA3FF"
+        android:pathData="M70,32 L59,43 L61,45 L72,34 Z" />
+        
+    <!-- Outer TV Frame -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,42 H84 C88,42 90,44 90,48 V76 C90,80 88,82 84,82 H24 C20,82 18,80 18,76 V48 C18,44 20,42 24,42 Z" />
+
+    <!-- Screen Bezel -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M26,45 H82 C84,45 85,46 85,48 V73 C85,75 84,76 82,76 H26 C24,76 23,75 23,73 V48 C23,46 24,45 26,45 Z" />
+
+    <!-- Play Button Symbol inside TV -->
+    <path
+        android:fillColor="#4DA3FF"
+        android:pathData="M48,53 L62,60.5 L48,68 Z" />
+
+    <!-- TV Stand -->
+    <path
+        android:fillColor="#E2E2E6"
+        android:pathData="M46,82 H62 V85 H46 Z" />
+    <path
+        android:fillColor="#E2E2E6"
+        android:pathData="M40,85 H68 V87 H40 Z" />
+</vector>
